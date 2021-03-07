@@ -1,4 +1,4 @@
-# Like some functions in Python libraries, you could say that this portoflio is now DEPRECATED.
+# Like some functions in Python libraries, you could say that this portfolio is now DEPRECATED.
 ## Most of these projects shown below were prepared in winter / spring season of 2020. I have learned much since that time, so these notebooks do not present current state of my Python and data science skills very well. I will try to update these old projects and create new ones as soon as possible.
 
 # ~~~~~~~~~~~~~~~~~~
